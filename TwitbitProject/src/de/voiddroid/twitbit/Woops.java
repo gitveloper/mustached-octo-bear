@@ -9,6 +9,11 @@ public class Woops {
 		// TODO Auto-generated method stub
 		
 		// LOLIBAN
+		start();
+	}
+	
+	static void start() {
+		
 	}
 
 }
