@@ -21,6 +21,8 @@ import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity implements
 		ActionBar.TabListener {
+	
+	// COMMENT
 
 	/**
 	 * The {@link android.support.v4.view.PagerAdapter} that will provide
