@@ -15,5 +15,9 @@ public class Woops {
 	static void start() {
 		
 	}
+	
+	public void trololololol() {
+		
+	}
 
 }
