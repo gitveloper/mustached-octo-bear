@@ -9,6 +9,15 @@ public class Woops {
 		// TODO Auto-generated method stub
 		
 		// LOLIBAN
+		start();
+	}
+	
+	static void start() {
+		System.out.println("OGOGOGO");
+	}
+	
+	private void yoloswag() {
+		System.out.println("SWAGNESS");
 	}
 
 }
